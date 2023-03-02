@@ -1,7 +1,8 @@
 body {
 	font-family: Arial, sans-serif;
 	padding: 0 15px;
-    max-width: 1215px;
+    min-width: 992px; 
+    max-width: 767px;
     margin-left: auto;
     margin-right: auto;
     background-color: white;
